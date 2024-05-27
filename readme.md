@@ -9,11 +9,11 @@
     <img src="./assets/img/LegenX Logo.png" alt="LegenX" width="auto">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">WD-DomeldManangan Resume</h3>
+  <h3 align="center">WD-MIDTERM</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Resume about Domeld Manangan.
+  MIDTERM work of Domeld Manangan.
 </div>
 
 <br />
@@ -63,23 +63,20 @@ Description of the project in details.
 Guiding Question:
 - What is the project
   <br>
-  Seatwork 2, Resume
+  Midterm
 - Whats the purpose
   <br>
-  About myself and a personal resume
+  To know all the basics of HTML and CSS
 - What are key components
   <br>
   -
 - What technology used and how it is used
   <br>
-  -
+  HTML and CSS
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
 
 ### Technology
 <!-- TODO: List of Technology Used -->
